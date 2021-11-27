@@ -1,3 +1,4 @@
+#ayyy
 import qrcode
 import os
 def print_banner():
